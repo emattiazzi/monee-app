@@ -15,6 +15,7 @@ Use `npm start` or `yarn start` to start the project.
 It will run a server at http://localhost:3000
 
 ## To do
-[ ] Replace Tachyons with a CSS-in-JS library
-[ ] Add Edit
-[ ] Add Delete
+
+* Replace Tachyons with a CSS-in-JS library
+* Add Edit
+* Add Delete
